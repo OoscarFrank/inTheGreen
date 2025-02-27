@@ -1,1 +1,3 @@
 # inTheGreen
+
+"InTheGreen" est un projet d'AIOT créé dans le but d'assister les personnes mal voyantes ou aveugles à connaître l'état des feux de circulation piétons. Cet ESP32 est équipé d'une caméra qui est capable, via un model d'IA de détecter si le feu est rouge ou vert. Si le feu est vert, nous avons une application swiftUI qui démontre le résultat, mais pour les personnes concernées, nous avons un buzzer connecté à notre micro controller qui bip différement en fonction de l'état du feu.
