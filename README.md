@@ -70,7 +70,7 @@ To enable visually impaired or blind individuals to move safely by detecting the
 
 **Contributions are welcome!**
 
-- **Fork** the project.\*\*
+- **Fork** the project.
 - **Create a branch** for your feature `(git checkout -b my-feature)`.
 - **Make your changes.**
 - **Submit** a pull request.
