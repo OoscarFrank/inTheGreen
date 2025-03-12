@@ -61,8 +61,8 @@ To enable visually impaired or blind individuals to move safely by detecting the
 - **Architecture:** Lightweight model optimized for microcontrollers (TinyML).
 - **Input:** Images captured by the camera.
 - **Output:**
-  `0`: **Red** light.
-  `1`: **Green** light.
+  - `0`: **Red** light.
+  - `1`: **Green** light.
 
 ---
 
