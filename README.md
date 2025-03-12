@@ -58,11 +58,11 @@ To enable visually impaired or blind individuals to move safely by detecting the
 
 ## 📐 AI Model
 
-**- Architecture:** Lightweight model optimized for microcontrollers (TinyML).
-**- Input:** Images captured by the camera.
-**- Output:**
-`0`: **Red** light.
-`1`: **Green** light.
+- **Architecture:** Lightweight model optimized for microcontrollers (TinyML).
+- **Input:** Images captured by the camera.
+- **Output:**
+  `0`: **Red** light.
+  `1`: **Green** light.
 
 ---
 
@@ -80,6 +80,7 @@ To enable visually impaired or blind individuals to move safely by detecting the
 ## ✨ Authors
 
 `Oscar FRANK` – `Younès BOUFRIOUA` – `Romain REYNAERT` – `Théotime SCHMELTZ​`
+
 **All contributions are acknowledged in the releases.**
 
 ---
